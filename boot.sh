@@ -2,4 +2,4 @@
 
 #exec gunicorn run:app
 
-flask run
+python3 run.py
